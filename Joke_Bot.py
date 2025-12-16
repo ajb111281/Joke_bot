@@ -23,8 +23,7 @@ jokes = ["I told my doctor that I broke my arm in two places, he told me to stop
          "I only know 25 letters of the alphabet, I don't know Y"
          ]
 
-dismiss = ["Piss off then!",
-           "Take this straw and got suck the fun out of somewhere else",
+dismiss = ["Take this straw and got suck the fun out of somewhere else",
            "Your loss!",
            "That's okay, I didn't want to waste a joke on you anyways!",
            ]
@@ -70,6 +69,7 @@ while True:
 
 
          
+
 
 
 
